@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "7fuLhYYF888ErGa23UWrry9MQsehv5euqaVLVWwUG8wc",
+  "symbol": "PZA",
+  "name": "AnanasPizza",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/2ArqHWi.png",
+  "tags": ["community", "meme"]
+}
